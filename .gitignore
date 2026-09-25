@@ -1,0 +1,7 @@
+# Dependências (nunca versionar)
+node_modules/
+
+# Variáveis de ambiente / segredos
+.env
+.env.*
+!.env.example
